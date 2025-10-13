@@ -17,6 +17,12 @@ Want to support the PC Gameport Party project? Please raise an issue with known 
 
 You can donate via ko-fi: https://ko-fi.com/1bitfeverdreams
 
+## Items you must secure yourself
+
+* PC joysticks and/or PC gamepads
+* DB15 cable M (goes into PC) to F (goes into the PC gameport party, this product here)
+* MIDI cables, DIN5 variety
+
 ## Possible use cases for this project:
 
 * Use a normal joystick on the player 1 socket
@@ -32,7 +38,7 @@ todo
 ## Buy it pre-fabricated
 
 Currently, only one vendor is selling assembled PC Gameport Party boards. You may go that route if ordering a PCB or soldering the components yourself is not your personal preference.
-You must source your own DB15 cable M (goes into PC) to F (goes into the PC gameport party, this product here).
+
 Joe's Computer Museum: https://jcm-1.com/product/pc-gameport-party/
 
 ## Gameport general knowledge
