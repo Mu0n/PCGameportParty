@@ -42,15 +42,15 @@ These files are located in the /PCB/ directory:
 
 If you only want the PCBs without having the parts pre-assembled by a manufacturer, here is the build of material for LCSC:
 
-| Name | Part | Quantity | Link | 
-| ------------- | ------------- | ------------- | ------------- |
-| MIDI DIN5 Socket | C2939344 | 2 | https://www.lcsc.com/product-detail/C2939344.html?s_z=n_C2939344 |
-| 15P F DSUB | C77832 | 2 | https://www.lcsc.com/product-detail/C77832.html?s_z=n_C77832 |
-| 15P M DSUB | C77837 | 1 | https://www.lcsc.com/product-detail/C77837.html?s_z=n_C77837 |
-| 220 Ohm Resistor | C127220 | 4 | https://www.lcsc.com/product-detail/C127220.html?s_z=n_C127220 |
-| Signal Diode 1A | C156296 | 1 | https://www.lcsc.com/product-detail/C156296.html?s_z=n_C156296 |
-| 4-Pole Double Throw Switch | C388871 | 1 | https://www.lcsc.com/product-detail/C388871.html?s_z=n_C388871 |
-| DIP Schmitt Trigger Photocoupler H11L1 | C78588 | 1 | https://www.lcsc.com/product-detail/C78588.html?s_z=n_C78588 |
+| Name | Part | Quantity |
+| ------------- | ------------- | ------------- |
+| MIDI DIN5 Socket | C2939344 | 2 |
+| 15P F DSUB | C77832 | 2 |
+| 15P M DSUB | C77837 | 1 |
+| 220 Ohm Resistor | C127220 | 4 |
+| Signal Diode 1A | C156296 | 1 |
+| 4-Pole Double Throw Switch | C388871 | 1 |
+| DIP Schmitt Trigger Photocoupler H11L1 | C78588 | 1 |
 
 
 
