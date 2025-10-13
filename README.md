@@ -8,8 +8,8 @@ The PC Gameport Party allows you to use your vintage PC’s gameport to its maxi
 Instead of having separate cabling solutions that would allow:
 
 * plug 2 joysticks at once 
-* use MIDI out(1) to a synth module 
-* use MIDI in(1) with a playing keyboard controller 
+* use MIDI out to a synth module 
+* use MIDI in with a playing keyboard controller 
 
 … it lets you do ALL of them at once. No more unplugging and replugging dedicated cables.
 
