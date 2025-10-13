@@ -39,7 +39,7 @@ todo
 
 Currently, only one vendor is selling assembled PC Gameport Party boards. You may go that route if ordering a PCB or soldering the components yourself is not your personal preference.
 
-Joe's Computer Museum: https://jcm-1.com/product/pc-gameport-party/
+Joe's Computer Museum (USA based): https://jcm-1.com/product/pc-gameport-party/
 
 ## Gameport general knowledge
 
