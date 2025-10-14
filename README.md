@@ -22,6 +22,7 @@ You can donate via ko-fi: https://ko-fi.com/1bitfeverdreams
 * PC joysticks and/or PC gamepads
 * DB15 cable M (goes into PC) to F (goes into the PC gameport party, this product here)
 * MIDI cables, DIN5 variety
+* MIDI gear (modules, synths, etc)
 
 ## Possible use cases for this project:
 
