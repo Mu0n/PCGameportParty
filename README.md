@@ -17,6 +17,12 @@ Want to support the PC Gameport Party project? Please raise an issue with known 
 
 You can donate via ko-fi: https://ko-fi.com/1bitfeverdreams
 
+## Description
+
+My video explainer: https://youtu.be/SGnbr5O1Wa0 on my YouTube channel https://www.youtube.com/@1BitFeverDreams
+
+Phil's Computer Lab https://www.youtube.com/@philscomputerlab reviews the PC Gameport Party: https://www.youtube.com/watch?v=bvkpvyx8jO8
+
 ## Items you must secure yourself
 
 * PC joysticks and/or PC gamepads
