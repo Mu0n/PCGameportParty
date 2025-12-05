@@ -17,7 +17,7 @@ Want to support the PC Gameport Party project? Please raise an issue with known 
 
 You can donate via ko-fi: https://ko-fi.com/1bitfeverdreams
 
-## Description
+## Related Videos
 
 My video explainer: https://youtu.be/SGnbr5O1Wa0 on my YouTube channel https://www.youtube.com/@1BitFeverDreams
 
